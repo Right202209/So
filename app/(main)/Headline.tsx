@@ -121,7 +121,7 @@ export function Headline() {
           aria-label="我的 Telegram"
           platform="telegram"
         /> */}
-        <SocialLink href="/feed.xml" platform="rss" aria-label="RSS 订阅" />
+{/*         <SocialLink href="/feed.xml" platform="rss" aria-label="RSS 订阅" /> */}
         <SocialLink
           href="mailto:tunhe38@gmail.com"
           aria-label="我的邮箱"
