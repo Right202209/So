@@ -1,4 +1,5 @@
-## Cali 个人博客网站
+![image](https://github.com/user-attachments/assets/a9546e7a-c17e-4d72-bf0b-215e57fd3e69#pic_center=60x60)
+
 
 Cali 的个人博客网站 [https://cali.so/](https://cali.so/) 的源代码。
 
